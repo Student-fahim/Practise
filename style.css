@@ -163,7 +163,7 @@ a{
     width: 200px;
     border: none;
 }
-@media screen and (max-width:580px) {
+@media screen and (max-width:570px) {
     .contentbox1,.links{
         flex-direction: column;
     }
