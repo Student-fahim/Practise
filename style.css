@@ -213,4 +213,9 @@ a{
         align-items: center;
         justify-content: center;
     }
+    .contentbox-7-2-h4-4{
+       flex-direction: column;
+       text-align: center;
+       overflow: hidden;
+    }
 }
