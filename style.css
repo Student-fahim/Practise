@@ -215,7 +215,11 @@ a{
     }
     .contentbox-7-2-h4-4{
        flex-direction: column;
+       max-width: 290px;
        text-align: center;
-       overflow: hidden;
+    }
+    .contentbox-1-2h1{
+        max-width: 400px;
+      
     }
 }
